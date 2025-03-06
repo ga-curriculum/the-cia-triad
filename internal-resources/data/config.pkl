@@ -27,8 +27,7 @@ courses {
       mls.identifyingAndProtectingCia
       mls.balancingTheCiaTriad
     }
-    }
-
+  }
   new {
     // Do not remove this fallback course!
     name = "fallback"
