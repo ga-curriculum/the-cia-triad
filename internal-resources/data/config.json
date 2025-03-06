@@ -20,8 +20,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Overview of the CIA Triad",
-          "dirName": "cia-triad-overview",
+          "friendlyName": "Introduction to the CIA Triad",
+          "dirName": "introduction-to-the-cia-triad",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -30,8 +30,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Identifying the CIA Triad",
-          "dirName": "identifying-cia-triad",
+          "friendlyName": "Identifying and Protecting CIA",
+          "dirName": "identifying-and-protecting-cia",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -41,7 +41,7 @@
         },
         {
           "friendlyName": "Balancing the CIA Triad",
-          "dirName": "balancing-cia-triad",
+          "dirName": "balancing-the-cia-triad",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -79,8 +79,8 @@
       "logoUrl": "",
       "microlessons": [
         {
-          "friendlyName": "Overview of the CIA Triad",
-          "dirName": "cia-triad-overview",
+          "friendlyName": "Introduction to the CIA Triad",
+          "dirName": "introduction-to-the-cia-triad",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -89,8 +89,8 @@
           "estimatedDeliveryTimeInMinutes": 0
         },
         {
-          "friendlyName": "Identifying the CIA Triad",
-          "dirName": "identifying-cia-triad",
+          "friendlyName": "Identifying and Protecting CIA",
+          "dirName": "identifying-and-protecting-cia",
           "type": "Content",
           "skill": "",
           "learningObjective": "",
@@ -100,7 +100,7 @@
         },
         {
           "friendlyName": "Balancing the CIA Triad",
-          "dirName": "balancing-cia-triad",
+          "dirName": "balancing-the-cia-triad",
           "type": "Content",
           "skill": "",
           "learningObjective": "",

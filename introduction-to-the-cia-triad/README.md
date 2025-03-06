@@ -1,6 +1,6 @@
 <h1>
   <span class="headline">The CIA Triad</span>
-  <span class="subhead">Overview of the CIA Triad</span>
+  <span class="subhead">Introduction to the CIA Triad</span>
 </h1>
 
 **Learning objective:** By the end of this lesson, students will be able to understand what the CIA triad is and how it fits into information security.
@@ -43,6 +43,14 @@ Availability guarantees that information is accessible to authorized users when 
 - Backup power supplies.
 - Regular maintenance.
 - Disaster recovery planning.
+
+## Why the CIA triad matters
+
+The CIA triad isn't just theoretical — it's fundamental to every decision about securing information and technology. Understanding it helps you quickly identify weaknesses, prioritize protective measures, and develop comprehensive strategies to protect systems and data.
+
+- **Unified approach**: The CIA triad offers a clear framework to consider security holistically. It helps us avoid narrowly focusing on only one aspect, ensuring well-rounded protection.
+- **Efficient decision-making**: When faced with security threats or decisions, asking "How does this affect confidentiality, integrity, and availability?" gives clarity on priorities and trade-offs.
+- **Proactive protection**: Applying the CIA framework helps anticipate vulnerabilities and implement preventive measures rather than reacting after incidents occur.
 
 <div class="activity solo-exercise">
   <h2 class="title">Overlapping security</h2>

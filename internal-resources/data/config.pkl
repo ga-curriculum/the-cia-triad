@@ -23,10 +23,10 @@ courses {
     name = "itb"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.overviewOfTheCiaTriad
-      mls.identifyingTheCiaTriad
+      mls.introductionToTheCiaTriad
+      mls.identifyingAndProtectingCia
       mls.balancingTheCiaTriad
-      }
+    }
     }
 
   new {
@@ -34,10 +34,10 @@ courses {
     name = "fallback"
     microlessons {
       // Add microlessons here, in the order they should be delivered
-      mls.overviewOfTheCiaTriad
-      mls.identifyingTheCiaTriad
+      mls.introductionToTheCiaTriad
+      mls.identifyingAndProtectingCia
       mls.balancingTheCiaTriad
-      }
     }
+  }
 }
 
