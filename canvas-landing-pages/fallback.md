@@ -6,7 +6,7 @@
 
 ## About
 
-This module explores the CIA Triad through engaging explanations and real-world scenarios, helping students understand how confidentiality, integrity, and availability form the foundation of information security. Practical examples to demonstrate how these principles apply to everyday IT operations and security decisions.
+This module explores the CIA triad through engaging explanations and real-world scenarios, helping students understand how confidentiality, integrity, and availability form the foundation of information security. Practical examples to demonstrate how these principles apply to everyday IT operations and security decisions.
 
 ## Content
 
